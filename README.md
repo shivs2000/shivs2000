@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 #### Languages and Tools
 
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivs2000&show_icons=true&theme=radical)
+
