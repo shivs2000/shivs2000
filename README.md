@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 
 
 #### Websites
-Dictionary app:- dictionary.buzzwhistle.com
 
-Apps:- apps.buzzwhistle.com
 
-portfolio:-portfolio1.buzzwhistle.com
+Apps:- apps.buzzwhistle.com(Making changes might not work)
+
+porjects:-projects.buzzwhistle.com
 
 
 
