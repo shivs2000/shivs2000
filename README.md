@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 #### Websites
 
 
-Apps:- apps.buzzwhistle.com(Making changes might not work)
+BLOG:-https://buzzwhistle.com
 
 porjects:-projects.buzzwhistle.com
 
