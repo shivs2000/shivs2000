@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 BLOG:-https://buzzwhistle.com
 
-porjects:-projects.buzzwhistle.com
+porjects:-https://projects.buzzwhistle.com
 
 
 
