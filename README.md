@@ -44,6 +44,7 @@ projects:-https://projects.buzzwhistle.com
 
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivs2000&show_icons=true&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivs2000&" alt="shivs2000" /></p>
 
 `#LEARNING BLOCKCHAIN`
 
