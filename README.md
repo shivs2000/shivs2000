@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 #### Websites
 
 
-BLOG:-https://buzzwhistle.com
+
 
 projects:-https://projects.buzzwhistle.com
 
