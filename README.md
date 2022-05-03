@@ -33,12 +33,7 @@ Here are some ideas to get you started:
 ![icons8-graphql-48](https://user-images.githubusercontent.com/43001208/130509302-03813bb8-0c35-42df-9907-fde0d00ef995.png)
 
 
-#### Websites
 
-
-
-
-projects:-https://projects.buzzwhistle.com
 
 
 
