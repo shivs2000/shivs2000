@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivs2000&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivs2000&" alt="shivs2000" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivs2000&langs_count=10)](https://github.com/shivs2000/github-readme-stats)
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?shivs2000" frameborder="0"></iframe>
 `#LEARNING BLOCKCHAIN`
 
