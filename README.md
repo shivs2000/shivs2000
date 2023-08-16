@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/43001208/130509284-3f0af20a-5a3f-4af3-8866-eb46f5335f9b.png)
 ![icons8-graphql-48](https://user-images.githubusercontent.com/43001208/130509302-03813bb8-0c35-42df-9907-fde0d00ef995.png)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shivs2000&theme=dark&background=1a1515)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivs2000&theme=dark&background=0f0d0d)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivs2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
