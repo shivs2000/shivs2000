@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 ![icons8-javascript-48](https://user-images.githubusercontent.com/43001208/130510098-1eb8865e-4b21-402d-b82d-7b1abab2991a.png)
 ![icons8-nodejs-48](https://user-images.githubusercontent.com/43001208/130510260-6bdfcc5a-cc7a-46cf-86af-0b1b6a67b0e3.png)
 ![icons8-react-native-48](https://user-images.githubusercontent.com/43001208/130510638-fe2a1ccf-1b16-4edd-a362-13446d33756f.png)
-
-
-
 ![icons8-mysql-logo-48](https://user-images.githubusercontent.com/43001208/130508475-68ea2302-05ac-42d0-87f3-ab89b3117d8a.png)
 ![icons8-vue-js-48](https://user-images.githubusercontent.com/43001208/130509204-7d3cad39-b306-48ff-a803-71e0fed42103.png)
 ![icons8-linux-48](https://user-images.githubusercontent.com/43001208/130509236-dd12612d-b2fe-44f9-844c-f4e9565e2a7a.png)
@@ -31,16 +28,6 @@ Here are some ideas to get you started:
 ![icons8-firebase-48](https://user-images.githubusercontent.com/43001208/130509269-19aed3b7-b930-44aa-800e-07b52b268b9e.png)
 ![icons8-mongodb-48](https://user-images.githubusercontent.com/43001208/130509284-3f0af20a-5a3f-4af3-8866-eb46f5335f9b.png)
 ![icons8-graphql-48](https://user-images.githubusercontent.com/43001208/130509302-03813bb8-0c35-42df-9907-fde0d00ef995.png)
-
-
-
-
-
-
-
-
-
-
 
 `#LEARNING BLOCKCHAIN`
 
