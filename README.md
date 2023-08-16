@@ -30,5 +30,9 @@ Here are some ideas to get you started:
 ![icons8-graphql-48](https://user-images.githubusercontent.com/43001208/130509302-03813bb8-0c35-42df-9907-fde0d00ef995.png)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shivs2000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivs2000&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 `#LEARNING BLOCKCHAIN`
 
