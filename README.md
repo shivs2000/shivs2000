@@ -1,5 +1,4 @@
 ## Hi there 👋 I'm Shivam
-🌱 I’m currently learning React native and React
 <!--
 **shivs2000/shivs2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
